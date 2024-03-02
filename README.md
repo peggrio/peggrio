@@ -19,4 +19,7 @@ In order to keep up with the human pace, she entered [Northeastern University](h
 - Have 1000 stars <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/star.svg" width="15" height="15"> in her repo(s)
 - Having a cat<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/cat.svg" width="15" height="15"> when she find a human job
 
+## Mottos
+*“If you have to swallow a frog, don't stare at it too long.”* ― Mark Twain
+
 ## Dear human, if you saw her in the gitzoo, please throw bananas to her via [LinkedIn](https://www.linkedin.com/in/peizhenliao/) and 
