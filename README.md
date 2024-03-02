@@ -1,4 +1,4 @@
-<h2 align="left">Hello there 👋! My name is ... Wait! Who am I?</h2>
+<h1 align="left">Hello there 👋! My name is ... Wait! Who am I?</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peggrio&label=Profile%20views&color=0e75b6&style=flat" alt="peggrio" /> </p>
 
