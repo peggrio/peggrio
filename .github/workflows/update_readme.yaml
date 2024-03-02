@@ -10,7 +10,7 @@ on:
     - cron: "0 5 * * *"
 
 jobs:
-  generate:
+  refresh_readme:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
