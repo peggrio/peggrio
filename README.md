@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2 align="left">Hello there 👋! My name is ... Wait! Who am I?</h2>
 
-<!--
-**peggrio/peggrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Biography
+Peggy is a vibrant and energetic chimpanzee who has joined our gitzoo family since 2020. Born in the lush forests of Southeast China, Peggy brings with her a sense of curiosity and playfulness that is sure to captivate talented hackers of all ages.
 
-Here are some ideas to get you started:
+## Skills
+- Eating 5 bananas in 3 minites
+- Cloud Platforms: Amazon Web Services (AWS)<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/aws.svg" width="15" height="15">
+- Data Engineering: Data Pipeline Development, Data Warehousing
+- Microservices: Architecture Design, Deployment, and Management
+- Programming Languages: Python<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/python.svg" width="15" height="15">, Java<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/java.svg" width="15" height="15">, Java Script, Shell, etc.
+- DevOps: Continuous Integration/Continuous Deployment (CI/CD), Infrastructure as Code (IaC), Containerization (Docker, Kubernetes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Dreams
+- Have 1000 stars <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/star.svg" width="15" height="15"> in her repo(s)
+- Having a cat<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/cat.svg" width="15" height="15"> when she find a human job
