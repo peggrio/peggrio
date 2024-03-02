@@ -16,3 +16,5 @@ In order to keep up with the human pace, she entered [Northeastern University](h
 ## Dreams
 - Have 1000 stars <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/star.svg" width="15" height="15"> in her repo(s)
 - Having a cat<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/cat.svg" width="15" height="15"> when she find a human job
+
+## Dear human, if you saw her in the gitzoo, please throw bananas to her via [LinkedIn](https://www.linkedin.com/in/peizhenliao/) and 
