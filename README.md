@@ -1,12 +1,14 @@
 <h2 align="left">Hello there 👋! My name is ... Wait! Who am I?</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=peggrio&label=Profile%20views&color=0e75b6&style=flat" alt="peggrio" /> </p>
+
 ## Biography
-Peggy is a vibrant and energetic chimpanzee who has joined our gitzoo family since 2020. Born in the lush forests of Southeast China, Peggy brings with her a sense of curiosity and playfulness that is sure to captivate talented hackers of all ages.
+Peggy is a vibrant and energetic chimpanzee🐒 who has joined our gitzoo family since 2020. Born in the lush forests of Southeast China, Peggy brings with her a sense of curiosity and playfulness that is sure to captivate talented hackers of all ages.
 
 In order to keep up with the human pace, she entered [Northeastern University](https://www.northeastern.edu/) to be trained as a coding human, now she is a honored software engineering graduate student.
 
 ## Skills
-- Eating 5 bananas in 3 minites
+- Eating 5 bananas🍌 in 3 minites
 - Cloud Platforms: Amazon Web Services (AWS)<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/aws.svg" width="15" height="15">
 - Data Engineering: Data Pipeline Development, Data Warehousing
 - Microservices: Architecture Design, Deployment, and Management
