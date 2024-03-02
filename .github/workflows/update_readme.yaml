@@ -26,7 +26,6 @@ jobs:
 
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          WAKATIME_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
       - name: Commit and push if changed
         run: |-
           git diff
