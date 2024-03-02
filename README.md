@@ -5,7 +5,7 @@
 ## Biography
 Peggy is a vibrant and energetic chimpanzee🐒 who has joined our gitzoo family since 2020. Born in the lush forests of Southeast China, Peggy brings with her a sense of curiosity and playfulness that is sure to captivate talented hackers of all ages.
 
-In order to keep up with the human pace, she entered [Northeastern University](https://www.northeastern.edu/) to be trained as a coding human, now she is a honored software engineering graduate student.
+In order to keep up with the human pace, she entered [Northeastern University](https://www.northeastern.edu/) to be trained as a coding human, now she is a honored software engineering graduate student🎓.
 
 ## Skills
 - Eating 5 bananas🍌 in 3 minites
