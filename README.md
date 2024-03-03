@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peggrio&label=Profile%20views&color=0e75b6&style=flat" alt="peggrio" /> </p>
 
 ## Biography
-Peggy is a vibrant and energetic chimpanzee🐒 who has joined our gitzoo family since 2020. Born in the lush forests of Southeast China, Peggy brings with her a sense of curiosity and playfulness that is sure to captivate talented hackers of all ages.
+Peggy is a vibrant and energetic macaque🐒 who has joined our gitzoo family since 2020. Born in the lush forests of Southeast China, Peggy brings with her a sense of curiosity and playfulness that is sure to captivate talented hackers of all ages.
 
 ![](./images/coding_monkey.gif)
 
